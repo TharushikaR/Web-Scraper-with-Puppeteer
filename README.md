@@ -5,3 +5,5 @@ npm init --yes
 
 npm install prettier
 
+npm install random-useragent
+
